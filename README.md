@@ -23,5 +23,5 @@ python app.py
 
 your chatbot will start running http://127.0.0.1:5000/ 
 
-![Demo]()
+![Demo](demo.png)
 
