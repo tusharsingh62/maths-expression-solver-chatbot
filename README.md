@@ -21,6 +21,8 @@ pip install chatterbot-corpus
 python app.py
 ```
 
+![Conversational Path](c_path.png)
+
 your chatbot will start running http://127.0.0.1:5000/ 
 
 ![Demo](demo.png)
