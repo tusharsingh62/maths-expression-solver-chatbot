@@ -1,6 +1,6 @@
 # maths-expression-calculator-chatbot
 
-- Tested chatbot with Python 3.8.5
+- Tested chatbot with **Python 3.8.5** version
 
 ## Setup on local web
 
